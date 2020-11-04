@@ -1,1 +1,1 @@
-# Object Oriented Programming Module
+# Object Oriented Programming
